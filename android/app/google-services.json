@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162833921941",
+    "project_id": "linya-queuing-system",
+    "storage_bucket": "linya-queuing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162833921941:android:c7a483d4635176ea76289c",
+        "android_client_info": {
+          "package_name": "com.linya.queueing_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivZEWEBgJ8JUK0UJgLyiW8zRsTOvyMmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
